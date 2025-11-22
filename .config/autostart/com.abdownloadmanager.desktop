@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=AB Download Manager
+Exec="/home/chaitanya/Downloads/ABDownloadManager/ABDownloadManager/bin/ABDownloadManager" --background
+Icon=/home/chaitanya/Downloads/ABDownloadManager/ABDownloadManager/lib/ABDownloadManager.png
+Terminal=false
+NoDisplay=true

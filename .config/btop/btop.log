@@ -1,0 +1,24 @@
+
+2025/03/28 (09:27:04) | ===> btop++ v.1.4.0
+2025/03/28 (09:27:04) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2025/03/28 (09:27:16) | ===> btop++ v.1.4.0
+2025/03/28 (09:27:16) | WARNING: No UTF-8 locale detected! Forcing start with --utf-force argument.
+2025/03/28 (09:27:16) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/03/28 (20:51:00) | ===> btop++ v.1.4.0
+2025/03/28 (20:51:00) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2025/04/02 (12:12:10) | ===> btop++ v.1.4.0
+2025/04/02 (12:12:10) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2025/04/02 (12:12:16) | ===> btop++ v.1.4.0
+2025/04/02 (12:12:16) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2025/04/02 (12:12:23) | ===> btop++ v.1.4.0
+2025/04/02 (12:12:23) | WARNING: No UTF-8 locale detected! Forcing start with --utf-force argument.
+2025/04/02 (12:12:23) | WARNING: Intel GPU: Failed to initialize PMU

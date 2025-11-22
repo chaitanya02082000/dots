@@ -1,0 +1,36 @@
+[2025-08-13 14:25:54] Script started - reloading waybar
+[2025-08-13 14:25:54] Waybar is running, restarting it
+[2025-08-13 14:25:55] Waybar restarted successfully
+[2025-08-13 14:25:55] Script completed
+[2025-08-13 14:29:38] --------- WAYBAR RELOAD SCRIPT STARTED ---------
+[2025-08-13 14:29:38] User: chaitanya
+[2025-08-13 14:29:38] PWD: /home/chaitanya/.config/wallust
+[2025-08-13 14:29:38] PATH: /home/chaitanya/.nvm/versions/node/v24.3.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/chaitanya/.local/bin:/home/chaitanya/projects/somafm/build/bin:/home/chaitanya/.local/bin:/home/chaitanya/projects/somafm/build/bin:/home/chaitanya/.local/bin:/home/chaitanya/projects/somafm/build/bin
+[2025-08-13 14:29:38] DISPLAY: :1
+[2025-08-13 14:29:38] WAYLAND_DISPLAY: wayland-1
+[2025-08-13 14:29:38] XDG_CURRENT_DESKTOP: Hyprland
+[2025-08-13 14:29:38] Running under Hyprland
+[2025-08-13 14:29:38] Found waybar at: /usr/local/bin/waybar
+[2025-08-13 14:29:38] Waybar is running with PID: 1445849, killing it
+[2025-08-13 14:29:38] Kill command exit status: 0
+[2025-08-13 14:29:39] Starting waybar with: /usr/local/bin/waybar
+[2025-08-13 14:29:39] Hyprctl start command exit status: 0
+ok
+[2025-08-13 14:29:40] SUCCESS: waybar started successfully
+[2025-08-13 14:29:40] --------- WAYBAR RELOAD SCRIPT COMPLETED ---------
+[2025-08-13 14:30:11] --------- WAYBAR RELOAD SCRIPT STARTED ---------
+[2025-08-13 14:30:11] User: chaitanya
+[2025-08-13 14:30:11] PWD: /home/chaitanya/.config/wallust
+[2025-08-13 14:30:11] PATH: /home/chaitanya/.nvm/versions/node/v24.3.0/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/chaitanya/.local/bin:/home/chaitanya/projects/somafm/build/bin:/home/chaitanya/.local/bin:/home/chaitanya/projects/somafm/build/bin:/home/chaitanya/.local/bin:/home/chaitanya/projects/somafm/build/bin
+[2025-08-13 14:30:11] DISPLAY: :1
+[2025-08-13 14:30:11] WAYLAND_DISPLAY: wayland-1
+[2025-08-13 14:30:11] XDG_CURRENT_DESKTOP: Hyprland
+[2025-08-13 14:30:11] Running under Hyprland
+[2025-08-13 14:30:11] Found waybar at: /usr/local/bin/waybar
+[2025-08-13 14:30:11] Waybar is running with PID: 1610394, killing it
+[2025-08-13 14:30:11] Kill command exit status: 0
+[2025-08-13 14:30:12] Starting waybar with: /usr/local/bin/waybar
+[2025-08-13 14:30:12] Hyprctl start command exit status: 0
+ok
+[2025-08-13 14:30:13] SUCCESS: waybar started successfully
+[2025-08-13 14:30:13] --------- WAYBAR RELOAD SCRIPT COMPLETED ---------

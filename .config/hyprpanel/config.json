@@ -1,0 +1,19 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "scalingPriority": "hyprland",
+  "theme.font.size": "0.8rem",
+  "theme.font.weight": 400,
+  "theme.bar.enableShadow": false,
+  "bar.workspaces.show_numbered": true,
+  "bar.workspaces.showWsIcons": false,
+  "bar.autoHide": "never",
+  "theme.bar.menus.opacity": 90,
+  "theme.bar.menus.monochrome": false,
+  "theme.bar.transparent": true,
+  "theme.matugen": true,
+  "wallpaper.image": "/home/chaitanya/.config/variety/current_wallpaper",
+  "theme.matugen_settings.mode": "dark",
+  "theme.matugen_settings.scheme_type": "expressive"
+}
